@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import WelcomeScreen from './WelcomeScreen.jsx';
 
 const App = (props) => {

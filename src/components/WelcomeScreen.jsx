@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const WelcomeScreen = (props) => {
   // eslint-disable-next-line react/prop-types
